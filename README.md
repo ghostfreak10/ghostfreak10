@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Javascript**
 
-- 💬 Ask me about **Android , MERN**
+- 💬 Ask me about **Web development , MERN**
 
 - 📫 How to reach me **codewithghostfreak@gmail.com**
 
