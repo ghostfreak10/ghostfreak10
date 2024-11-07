@@ -2,7 +2,7 @@
 
 I'm krishna, a passionate developer with a deep interest in building dynamic, responsive, and visually captivating applications. My work is all about creating engaging user experiences, and I'm constantly exploring new technologies and techniques to make my projects stand out. Here, you’ll find a variety of projects showcasing my skills and interests.
 
----
+
 
 ## 👨‍💻 About Me
 
@@ -11,7 +11,7 @@ I'm krishna, a passionate developer with a deep interest in building dynamic, re
 - **🚀 Goals:** Aiming to contribute to open-source projects, collaborate with other developers, and continue building a strong portfolio of innovative applications.
 - **💬 Ask Me About:** I’m always happy to talk about C++ data structures, JavaScript frameworks, and creating smooth animations in web applications.
 
----
+
 
 ## 🛠 Tech Stack & Skills
 <div align="center">
@@ -20,7 +20,7 @@ I'm krishna, a passionate developer with a deep interest in building dynamic, re
     <img src="https://skillicons.dev/icons?i=linux,git,github,postman,vscode,stackoverflow" /><br>
 </div>
 
----
+
 
 ## 📌 Pinned Projects
 
@@ -41,7 +41,7 @@ Check out some of my favorite projects below. These represent my best work and d
 - **Tech Stack**: GSAP, HTML/CSS, JavaScript
 - **Highlights**: Mention any design elements, complex animations, or creative problem-solving approaches you applied.
 
----
+
 
 ## 💬 Let's Connect!
 
@@ -55,7 +55,6 @@ I'm always interested in connecting with other developers, discussing ideas, and
 - **Personal Website or Portfolio**: [https://your-website.com](https://your-website.com)
 - **Email**: [your-email@example.com](mailto:your-email@example.com)
 
----
 
 ## 📈 GitHub Stats
 
@@ -67,7 +66,5 @@ I'm always interested in connecting with other developers, discussing ideas, and
   <br/><br/><br/>
 </div>
 
-
----
 
 Thank you for visiting my profile! I’m always looking for exciting new opportunities to grow and collaborate, so don’t hesitate to reach out. 😊
