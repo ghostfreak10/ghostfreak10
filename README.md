@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Krishna+Lodhi!;" />
 </h1>
 
-I'm krishna, a passionate developer with a deep interest in building dynamic, responsive, and visually captivating applications. My work is all about creating engaging user experiences, and I'm constantly exploring new technologies and techniques to make my projects stand out. Here, you’ll find a variety of projects showcasing my skills and interests.
+A passionate developer with a deep interest in building dynamic, responsive, and visually captivating applications. My work is all about creating engaging user experiences, and I'm constantly exploring new technologies and techniques to make my projects stand out. Here, you’ll find a variety of projects showcasing my skills and interests.
 
 
 
@@ -17,7 +17,7 @@ I'm krishna, a passionate developer with a deep interest in building dynamic, re
 
 ## 🛠 Tech Stack & Skills
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,nextjs,github,figma,tailwind,redux" /><br>
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,nextjs,figma,tailwind,redux" /><br>
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,express,mongodb,c,cpp,mysql" /><br>
     <img src="https://skillicons.dev/icons?i=linux,git,github,postman,vscode,stackoverflow" /><br>
 </div>
