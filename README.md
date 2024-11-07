@@ -15,9 +15,9 @@ I'm krishna, a passionate developer with a deep interest in building dynamic, re
 
 ## 🛠 Tech Stack & Skills
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,nextjs,github,figma,tailwind" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,express,mongoose,mongodb,c,c++,nextjs,mysql" /><br>
-    <img src="https://skillicons.dev/icons?i=linux,git,github,postman,vscode" /><br>
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,nextjs,github,figma,tailwind,redux" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,express,mongodb,c,cpp,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=linux,git,github,postman,vscode,stackoverflow" /><br>
 </div>
 
 ---
