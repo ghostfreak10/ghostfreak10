@@ -63,7 +63,7 @@ I'm always interested in connecting with other developers, discussing ideas, and
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/krishna.exe/krishna.exe/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/krishna.exe/salesp07/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
