@@ -15,28 +15,7 @@ I'm krishna, a passionate developer with a deep interest in building dynamic, re
 
 ## 🛠 Tech Stack & Skills
 
-Here's a snapshot of the tools and technologies I work with regularly:
 
-### Languages
-- **JavaScript** - My go-to language for front-end and interactive web applications.
-- **TypeScript** - Strongly typed JavaScript makes larger projects more manageable.
-- **C++** - An all-time favorite for its performance and versatility in handling complex algorithms.
-- **Python** - For quick scripts, data analysis, and automation.
-
-### Front-End
-- **React** - Building responsive UIs and interactive web applications.
-- **GSAP (GreenSock Animation Platform)** - For high-performance animations and interactive experiences.
-- **HTML & CSS** - The foundational tools for building layouts and designs.
-
-### Back-End
-- **Node.js & Express** - Building server-side logic and APIs for full-stack applications.
-- **[Your Preferred Database]** - E.g., MongoDB, PostgreSQL, MySQL (add what you use).
-- **[Other relevant back-end frameworks]** - Mention any additional back-end technologies or frameworks you use.
-
-### Tools & Misc
-- **Git & GitHub** - Version control and project collaboration.
-- **Docker** - Containerizing applications for consistent environments.
-- **[Other tools you regularly use]** - E.g., Postman, Visual Studio Code, etc.
 
 ---
 
