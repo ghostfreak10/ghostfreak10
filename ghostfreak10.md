@@ -33,10 +33,10 @@ Check out some of my favorite projects below. These represent my best work and d
 - **Tech Stack**: JavaScript, React, Node.js,Tailwind,Redux 
 - **Highlights**: Key features like interactive animations, API integration, or performance optimizations.
 
-### 💻 [Project 2 Name](link-to-project-2)
-**Description**: Share what makes this project unique. Highlight any particular challenges or technologies you explored.
-- **Tech Stack**: Python, Flask, SQL
-- **Highlights**: Save new code snippets or update existing ones.
+### 💻 [JBL Website](https://ghostfreak10.github.io/JBL-headphones/)
+**Description**: Discover a sleek, modern recreation of the JBL website, blending dynamic visuals with intuitive navigation.
+- **Tech Stack**: HTML, CSS, JavaScript,Swiper,Scroll Reveal 
+- **Highlights**: Experience a sleek, vibrant JBL website recreation with dynamic visuals, intuitive navigation, and seamless performance across all devices. 
 
 ### 🎨 [Project 3 Name](link-to-project-3)
 **Description**: Talk about the inspiration or idea behind this project and how you implemented it.
