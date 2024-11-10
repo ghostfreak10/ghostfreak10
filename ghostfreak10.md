@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Krishna+Lodhi!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Krishna+Lodhi!; color=#00000" />
 </h1>
 
 A passionate developer with a deep interest in building dynamic, responsive, and visually captivating applications. My work is all about creating engaging user experiences, and I'm constantly exploring new technologies and techniques to make my projects stand out. Here, you’ll find a variety of projects showcasing my skills and interests.
@@ -28,15 +28,15 @@ A passionate developer with a deep interest in building dynamic, responsive, and
 
 Check out some of my favorite projects below. These represent my best work and demonstrate my skills in different areas:
 
-### 🚀 [Project 1 Name](link-to-project-1)
-**Description**: A brief overview of what the project is and its purpose. Describe any interesting features or techniques you used.
-- **Tech Stack**: JavaScript, React, Node.js
+### 🚀 [Code Saver](https://code-saver-nine.vercel.app/)
+**Description**: Code Saver is a lightweight, intuitive application designed to help developers save and organize their code snippets efficiently.
+- **Tech Stack**: JavaScript, React, Node.js,Tailwind,Redux 
 - **Highlights**: Key features like interactive animations, API integration, or performance optimizations.
 
 ### 💻 [Project 2 Name](link-to-project-2)
 **Description**: Share what makes this project unique. Highlight any particular challenges or technologies you explored.
 - **Tech Stack**: Python, Flask, SQL
-- **Highlights**: Discuss data handling, user authentication, or any other notable aspects.
+- **Highlights**: Save new code snippets or update existing ones.
 
 ### 🎨 [Project 3 Name](link-to-project-3)
 **Description**: Talk about the inspiration or idea behind this project and how you implemented it.
