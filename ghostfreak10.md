@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Krishna+Lodhi!; color=#00000" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Krishna+Lodhi!;&color=000000" />
 </h1>
 
 A passionate developer with a deep interest in building dynamic, responsive, and visually captivating applications. My work is all about creating engaging user experiences, and I'm constantly exploring new technologies and techniques to make my projects stand out. Here, you’ll find a variety of projects showcasing my skills and interests.
