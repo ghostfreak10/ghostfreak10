@@ -57,16 +57,4 @@ I'm always interested in connecting with other developers, discussing ideas, and
 - **Personal Website or Portfolio**: [https://your-website.com](https://your-website.com)
 - **Email**: [your-email@example.com](mailto:your-email@example.com)
 
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
-
-
 Thank you for visiting my profile! I’m always looking for exciting new opportunities to grow and collaborate, so don’t hesitate to reach out. 😊
